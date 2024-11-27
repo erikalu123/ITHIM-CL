@@ -1,0 +1,11 @@
+name: results_app
+title:
+username:
+account: ithim-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9127236
+bundleId: 7621973
+url: https://ithim-apps.shinyapps.io/results_app/
+asMultiple: FALSE
+asStatic: FALSE
